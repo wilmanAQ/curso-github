@@ -9,4 +9,4 @@ Todo los relacionado con reparación
 # Modulo del libro 
 Es la base del tema centra
 # Modulo de practica
-Todo estudiante debepresentar su certificado de paractica
+Todo estudiante debepresentar su certificado de paractica❤️❤️❤️❤️❤️❤️
