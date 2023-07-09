@@ -12,3 +12,4 @@ Es la base del tema centra
 Todo estudiante debepresentar su certificado de paractica❤️❤️❤️❤️❤️❤️
 # Proceso de inscripción
 Cuando termina cada periodo o modulo
+#cali
