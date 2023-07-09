@@ -6,3 +6,5 @@ Estoy realizando esta modificacón para probar el forking
 Todo lo relacionado con Informatica
 # Modulo de Configuración
 Todo los relacionado con reparación 
+# Modulo del libro 
+Es la base del tema centra
