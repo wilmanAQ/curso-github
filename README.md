@@ -13,3 +13,5 @@ Todo estudiante debepresentar su certificado de paractica❤️❤️❤️❤�
 # Proceso de inscripción
 Cuando termina cada periodo o modulo
 #cali
+#Premiasiones 
+Cada estudiante que ocupe el primer premio debe ser condecorado
