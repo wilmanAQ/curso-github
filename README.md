@@ -10,3 +10,5 @@ Todo los relacionado con reparación
 Es la base del tema centra
 # Modulo de practica
 Todo estudiante debepresentar su certificado de paractica❤️❤️❤️❤️❤️❤️
+# Proceso de inscripción
+Cuando termina cada periodo o modulo
