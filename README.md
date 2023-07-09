@@ -15,3 +15,5 @@ Cuando termina cada periodo o modulo
 #cali
 #Premiasiones 
 Cada estudiante que ocupe el primer premio debe ser condecorado
+# Ciudad de Bogota
+Es la capital de Colombia
