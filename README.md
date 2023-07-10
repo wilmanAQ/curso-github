@@ -30,7 +30,10 @@ $ git remote set-url origin https://github.com/owner/repo.git
 O este para cambiar a otro usuario
 
 $ git remote set-url origin https://nuevousuario@github.com/owner/repo.git
+
 # La practica hace al maestro
 # Soy el mejor en GITHUB
 ## este es mi colaboración 
+## LO NUEVO
+# orden
 
